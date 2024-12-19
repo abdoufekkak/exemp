@@ -15,18 +15,7 @@ const cards = [
     title: "Carte 1",
     description: "Ceci est une carte exemple 1."
   },
-  {
-    id: 2,
-    image: "https://via.placeholder.com/300",
-    title: "Carte 2",
-    description: "Ceci est une carte exemple 2."
-  },
-  {
-    id: 3,
-    image: "https://via.placeholder.com/300",
-    title: "Carte 3",
-    description: "Ceci est une carte exemple 2."
-  }
+ 
 ];
 
 // Route pour récupérer les cartes
