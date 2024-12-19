@@ -12,7 +12,7 @@ const cards = [
   {
     id: 1,
     image: "https://via.placeholder.com/300",
-    title: "Carte 1",
+    title: "Carte 2",
     description: "Ceci est une carte exemple 1."
   },
  
