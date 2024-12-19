@@ -20,6 +20,12 @@ const cards = [
     image: "https://via.placeholder.com/300",
     title: "Carte 2",
     description: "Ceci est une carte exemple 2."
+  },
+  {
+    id: 3,
+    image: "https://via.placeholder.com/300",
+    title: "Carte 3",
+    description: "Ceci est une carte exemple 2."
   }
 ];
 
